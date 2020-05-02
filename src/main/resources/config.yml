@@ -1,0 +1,11 @@
+database:
+  ip: ''
+  port: ''
+  dbname: ''
+  user: ''
+  pass: ''
+rcon:
+  host: ''
+  pass: ''
+  port: ''
+players: []

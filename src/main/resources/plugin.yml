@@ -1,0 +1,8 @@
+author: UnioDex
+main: com.uniocraft.antigrief.Main
+name: UnioAntiGrief
+version: 2.0
+
+commands:
+  bcmd:
+    description: bcmd
